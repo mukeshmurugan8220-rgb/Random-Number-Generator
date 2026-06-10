@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Random-Number-Generator/static/css/main.4e16f9b4.css",
+    "main.js": "/Random-Number-Generator/static/js/main.e2ec0fef.js",
+    "static/js/453.058daeb6.chunk.js": "/Random-Number-Generator/static/js/453.058daeb6.chunk.js",
+    "index.html": "/Random-Number-Generator/index.html",
+    "main.4e16f9b4.css.map": "/Random-Number-Generator/static/css/main.4e16f9b4.css.map",
+    "main.e2ec0fef.js.map": "/Random-Number-Generator/static/js/main.e2ec0fef.js.map",
+    "453.058daeb6.chunk.js.map": "/Random-Number-Generator/static/js/453.058daeb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e16f9b4.css",
+    "static/js/main.e2ec0fef.js"
+  ]
+}
